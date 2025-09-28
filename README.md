@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="./banner.png" alt="Nishu Nishanta Banner" />
+  <img src="https://raw.githubusercontent.com/nishuNishanta/nishuNishanta/main/banner.png" alt="Nishu Nishanta Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nishu Nishanta</h1>
@@ -41,11 +41,11 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishuNishanta&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishuNishanta&theme=radical" alt="GitHub Streak"/>
-</p>
+<!--### 📊 GitHub Stats-->
+<!--<p align="center">-->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=nishuNishanta&show_icons=true&theme=radical" alt="GitHub Stats"/>-->
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishuNishanta&theme=radical" alt="GitHub Streak"/>-->
+<!--</p>-->
 
 ---
 
